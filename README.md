@@ -7,7 +7,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/stalinkar">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=800&height=45&lines=I%20don%E2%80%99t%20just%20test%20%E2%80%94%20I%20engineer%20solutions%20through%20learning%20and%20experimentation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=800&height=45&lines=I%20don%E2%80%99t%20just%20test%20%E2%80%94%20I%20engineer%20solutions%2C%20not%20just%20outcomes" alt="Typing SVG" />
 </a>
 
 <!-- PROFILE BADGES -->
