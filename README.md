@@ -29,8 +29,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="30" height="30" /> About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stalinkar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" width="320" alt="Top Languages"/>
-
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stalinkar&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;langs_count=8" width="320" alt="Top Languages">
 
 📍 **India**
 
@@ -40,11 +39,13 @@
 
 🌱 Currently learning **Playwright, AI/ML**
 
-💬 Ask me about **Selenium, Rest Assured, Serenity BDD Functional Testing **
+💬 Ask me about **Selenium, Rest Assured, Serenity BDD Functional Testing**
 
 🎓 Certifications: **DevLabs Alliance certified SDET Professional**
 
 ⚡ Fun fact: **I love to code, debug and improvise**
+
+💻 Top Languages: **Java, Python, JavaScript, HTML**
 
 📦 **19** repositories | 👥 **1** followers
 
