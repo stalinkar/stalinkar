@@ -3,11 +3,11 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:0d1117&height=200&section=header&text=Stalin%20Kar&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Senior%20SDET%2C%20UI%20%26%20API%20Automation%20Engineer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:0d1117&height=200&section=header&text=Stalin%20Kar&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Senior%20SDET%20%7C%20UI%20%26amp%3B%20API%20Automation%20Engineer&descAlignY=55&descSize=20" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/stalinkar">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=800&height=45&lines=I%20don%E2%80%99t%20just%20test%20%E2%80%94%20I%20engineer%20solutions%2C%20not%20just%20outcomes" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=800&height=45&lines=I%20don%E2%80%99t%20just%20test%20%E2%80%94%20I%20engineer%20solutions%20and%20keep%20learning" alt="Typing SVG" />
 </a>
 
 <!-- PROFILE BADGES -->
@@ -42,6 +42,7 @@
 
 💬 Ask me about **Selenium, Rest Assured, Serenity BDD Functional Testing **
 
+🎓 Certifications: **DevLabs Alliance certified SDET Professional**
 
 ⚡ Fun fact: **I love to code, debug and improvise**
 
