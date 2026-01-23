@@ -3,11 +3,11 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:0d1117&height=200&section=header&text=Stalin%20Kar&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Senior%20SDET%20%7C%20UI%20%26amp%3B%20API%20Automation%20Engineer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:0d1117&height=200&section=header&text=Stalin%20Kar&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Senior%20SDET%20%7C%20UI%20%26amp%3B%20API%20Automation%20Engineer%20&descAlignY=55&descSize=20" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/stalinkar">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=800&height=45&lines=I%20don%E2%80%99t%20just%20test%20%E2%80%94%20I%20engineer%20solutions%20and%20keep%20learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=800&height=45&lines=I%20don't%20just%20test%20-%20I%20engineer%20Solutions%20and%20keep%20learning" alt="Typing SVG" />
 </a>
 
 <!-- PROFILE BADGES -->
@@ -29,13 +29,14 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="30" height="30" /> About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stalinkar&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;langs_count=8" width="320" alt="Top Languages">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stalinkar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" width="320" alt="Top Languages"/>
+
 
 📍 **India**
 
 💼 **Overall 10+years in QA and 7+ years in Test Automation**
 
-🔭 Currently working on **[vibium-sample-framework](https://github.com/stalinkar/vibium-sample-framework)**
+🔭 Currently working on **[playwright-ts-framework](https://github.com/stalinkar/playwright-ts-framework)**
 
 🌱 Currently learning **Playwright, AI/ML**
 
@@ -47,7 +48,7 @@
 
 💻 Top Languages: **Java, Python, JavaScript, HTML**
 
-📦 **19** repositories | 👥 **1** followers
+📦 **21** repositories | 👥 **1** followers
 
 <br clear="right"/>
 
@@ -114,10 +115,10 @@
 <div align="center">
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="angular"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
 </div>
@@ -129,12 +130,12 @@
 <br/>
 <div align="center">
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="githubactions"/>
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="azure"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
 <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="maven"/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="jira"/>
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="azure"/>
-<img src="https://img.shields.io/badge/Selenium_Grid-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="seleniumgrid"/>
 </div>
 
 </td>
@@ -148,12 +149,12 @@
 
 <div align="center">
 
+<a href="https://github.com/stalinkar/playwright-ts-framework"><img src="https://github-readme-stats.vercel.app/api/pin/?username=stalinkar&repo=playwright-ts-framework&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="playwright-ts-framework"/></a>
 <a href="https://github.com/stalinkar/vibium-sample-framework"><img src="https://github-readme-stats.vercel.app/api/pin/?username=stalinkar&repo=vibium-sample-framework&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="vibium-sample-framework"/></a>
+<a href="https://github.com/stalinkar/stalinkar"><img src="https://github-readme-stats.vercel.app/api/pin/?username=stalinkar&repo=stalinkar&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="stalinkar"/></a>
 <a href="https://github.com/stalinkar/TestPilot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=stalinkar&repo=TestPilot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="TestPilot"/></a>
 <a href="https://github.com/stalinkar/myportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=stalinkar&repo=myportfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="myportfolio"/></a>
 <a href="https://github.com/stalinkar/JustSnip"><img src="https://github-readme-stats.vercel.app/api/pin/?username=stalinkar&repo=JustSnip&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="JustSnip"/></a>
-<a href="https://github.com/stalinkar/AngularJS-to-Angular"><img src="https://github-readme-stats.vercel.app/api/pin/?username=stalinkar&repo=AngularJS-to-Angular&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="AngularJS-to-Angular"/></a>
-<a href="https://github.com/stalinkar/JenkinsDemo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=stalinkar&repo=JenkinsDemo&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="JenkinsDemo"/></a>
 
 </div>
 
@@ -171,11 +172,25 @@
 </thead>
 <tbody>
 <tr>
-<td><a href="https://github.com/stalinkar/vibium-sample-framework"><b>vibium-sample-framework</b></a></td>
+<td><a href="https://github.com/stalinkar/playwright-ts-framework"><b>playwright-ts-framework</b></a></td>
 <td>No description</td>
 <td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
 <td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
+<td><img src="https://img.shields.io/badge/TypeScript-gray?style=flat-square" alt="language"/></td>
+</tr>
+<tr>
+<td><a href="https://github.com/stalinkar/vibium-sample-framework"><b>vibium-sample-framework</b></a></td>
+<td>Opinionated sample framework for building and testing Vibium...</td>
+<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
+<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
 <td><img src="https://img.shields.io/badge/JavaScript-gray?style=flat-square" alt="language"/></td>
+</tr>
+<tr>
+<td><a href="https://github.com/stalinkar/stalinkar"><b>stalinkar</b></a></td>
+<td>My GitHub Profile README</td>
+<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
+<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
+<td><img src="https://img.shields.io/badge/N%2FA-gray?style=flat-square" alt="language"/></td>
 </tr>
 <tr>
 <td><a href="https://github.com/stalinkar/TestPilot"><b>TestPilot</b></a></td>
@@ -198,25 +213,11 @@
 <td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
 <td><img src="https://img.shields.io/badge/Java-gray?style=flat-square" alt="language"/></td>
 </tr>
-<tr>
-<td><a href="https://github.com/stalinkar/AngularJS-to-Angular"><b>AngularJS-to-Angular</b></a></td>
-<td>AngularJS-to-Angular is a comprehensive guide and resource r...</td>
-<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
-<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/HTML-gray?style=flat-square" alt="language"/></td>
-</tr>
-<tr>
-<td><a href="https://github.com/stalinkar/JenkinsDemo"><b>JenkinsDemo</b></a></td>
-<td>No description</td>
-<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
-<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/Java-gray?style=flat-square" alt="language"/></td>
-</tr>
 </tbody>
 </table>
 
 <p align="center">
-  <i>💡 Total of <b>19</b> repositories</i>
+  <i>💡 Total of <b>21</b> repositories</i>
 </p>
 
 
@@ -246,7 +247,7 @@
 
 
 <td align="center">
-<img src="https://img.shields.io/badge/📦_Repositories-19-green?style=for-the-badge" alt="Repos"/>
+<img src="https://img.shields.io/badge/📦_Repositories-21-green?style=for-the-badge" alt="Repos"/>
 </td>
 <td align="center">
 <img src="https://img.shields.io/badge/👥_Followers-1-purple?style=for-the-badge" alt="Followers"/>
